@@ -1,0 +1,182 @@
+
+		>>BUBBLE SORT<<
+Tempo de Execucao 1: 0
+Tempo de Execucao 2: 0
+Tempo de Execucao 3: 0
+Tempo de Execucao 4: 0
+Tempo de Execucao 5: 0
+Tempo de Execucao 6: 0
+Tempo de Execucao 7: 0
+Tempo de Execucao 8: 0
+Tempo de Execucao 9: 0
+Tempo de Execucao 10: 0
+Tempo de Execucao 11: 0
+Tempo de Execucao 12: 0
+Tempo de Execucao 13: 0
+Tempo de Execucao 14: 0
+Tempo de Execucao 15: 0
+Tempo de Execucao 16: 0
+Tempo de Execucao 17: 0
+Tempo de Execucao 18: 0
+Tempo de Execucao 19: 0
+Tempo de Execucao 20: 0
+Somatorio: 0
+Media: 0.00
+Variancia: 0.00
+Desvio Padrao: 0.00
+
+		>>QUICK SORT<<
+Tempo de Execucao 1: 0
+Tempo de Execucao 2: 0
+Tempo de Execucao 3: 0
+Tempo de Execucao 4: 0
+Tempo de Execucao 5: 0
+Tempo de Execucao 6: 0
+Tempo de Execucao 7: 0
+Tempo de Execucao 8: 0
+Tempo de Execucao 9: 0
+Tempo de Execucao 10: 0
+Tempo de Execucao 11: 0
+Tempo de Execucao 12: 0
+Tempo de Execucao 13: 0
+Tempo de Execucao 14: 0
+Tempo de Execucao 15: 0
+Tempo de Execucao 16: 0
+Tempo de Execucao 17: 0
+Tempo de Execucao 18: 0
+Tempo de Execucao 19: 0
+Tempo de Execucao 20: 0
+Somatorio: 0
+Media: 0.00
+Variancia: 0.00
+Desvio Padrao: 0.00
+
+		>>INSERTION SORT<<
+Tempo de Execucao 1: 0
+Tempo de Execucao 2: 0
+Tempo de Execucao 3: 0
+Tempo de Execucao 4: 0
+Tempo de Execucao 5: 0
+Tempo de Execucao 6: 0
+Tempo de Execucao 7: 0
+Tempo de Execucao 8: 0
+Tempo de Execucao 9: 0
+Tempo de Execucao 10: 0
+Tempo de Execucao 11: 0
+Tempo de Execucao 12: 0
+Tempo de Execucao 13: 0
+Tempo de Execucao 14: 0
+Tempo de Execucao 15: 0
+Tempo de Execucao 16: 0
+Tempo de Execucao 17: 0
+Tempo de Execucao 18: 0
+Tempo de Execucao 19: 0
+Tempo de Execucao 20: 0
+Somatorio: 0
+Media: 0.00
+Variancia: 0.00
+Desvio Padrao: 0.00
+
+		>>INSERTION SORT BIN<<
+Tempo de Execucao 1: 0
+Tempo de Execucao 2: 0
+Tempo de Execucao 3: 0
+Tempo de Execucao 4: 0
+Tempo de Execucao 5: 0
+Tempo de Execucao 6: 0
+Tempo de Execucao 7: 0
+Tempo de Execucao 8: 0
+Tempo de Execucao 9: 0
+Tempo de Execucao 10: 0
+Tempo de Execucao 11: 0
+Tempo de Execucao 12: 0
+Tempo de Execucao 13: 0
+Tempo de Execucao 14: 0
+Tempo de Execucao 15: 0
+Tempo de Execucao 16: 0
+Tempo de Execucao 17: 0
+Tempo de Execucao 18: 0
+Tempo de Execucao 19: 0
+Tempo de Execucao 20: 0
+Somatorio: 0
+Media: 0.00
+Variancia: 0.00
+Desvio Padrao: 0.00
+
+		>>MERGE SORT<<
+Tempo de Execucao 1: 8783
+Tempo de Execucao 2: 8830
+Tempo de Execucao 3: 8752
+Tempo de Execucao 4: 8751
+Tempo de Execucao 5: 8736
+Tempo de Execucao 6: 8689
+Tempo de Execucao 7: 8799
+Tempo de Execucao 8: 8783
+Tempo de Execucao 9: 8783
+Tempo de Execucao 10: 8768
+Tempo de Execucao 11: 8814
+Tempo de Execucao 12: 8690
+Tempo de Execucao 13: 8689
+Tempo de Execucao 14: 8689
+Tempo de Execucao 15: 8720
+Tempo de Execucao 16: 8642
+Tempo de Execucao 17: 8720
+Tempo de Execucao 18: 8674
+Tempo de Execucao 19: 8721
+Tempo de Execucao 20: 8674
+Somatorio: 174707
+Media: 8735.35
+Variancia: 2650.83
+Desvio Padrao: 51.49
+
+		>>SELECTION SORT<<
+Tempo de Execucao 1: 0
+Tempo de Execucao 2: 0
+Tempo de Execucao 3: 0
+Tempo de Execucao 4: 0
+Tempo de Execucao 5: 0
+Tempo de Execucao 6: 0
+Tempo de Execucao 7: 0
+Tempo de Execucao 8: 0
+Tempo de Execucao 9: 0
+Tempo de Execucao 10: 0
+Tempo de Execucao 11: 0
+Tempo de Execucao 12: 0
+Tempo de Execucao 13: 0
+Tempo de Execucao 14: 0
+Tempo de Execucao 15: 0
+Tempo de Execucao 16: 0
+Tempo de Execucao 17: 0
+Tempo de Execucao 18: 0
+Tempo de Execucao 19: 0
+Tempo de Execucao 20: 0
+Somatorio: 0
+Media: 0.00
+Variancia: 0.00
+Desvio Padrao: 0.00
+
+		>>HEAP SORT<<
+Tempo de Execucao 1: 202
+Tempo de Execucao 2: 187
+Tempo de Execucao 3: 203
+Tempo de Execucao 4: 203
+Tempo de Execucao 5: 219
+Tempo de Execucao 6: 234
+Tempo de Execucao 7: 187
+Tempo de Execucao 8: 202
+Tempo de Execucao 9: 202
+Tempo de Execucao 10: 203
+Tempo de Execucao 11: 203
+Tempo de Execucao 12: 187
+Tempo de Execucao 13: 203
+Tempo de Execucao 14: 203
+Tempo de Execucao 15: 187
+Tempo de Execucao 16: 203
+Tempo de Execucao 17: 203
+Tempo de Execucao 18: 234
+Tempo de Execucao 19: 234
+Tempo de Execucao 20: 203
+Somatorio: 4102
+Media: 205.10
+Variancia: 203.89
+Desvio Padrao: 14.28

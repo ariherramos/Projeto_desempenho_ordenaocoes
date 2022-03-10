@@ -1,0 +1,723 @@
+# depslib dependency file v1.0
+1479730224 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1479621835 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1479618043 c:\users\gustavo\documents\biblioteca c\ordenacoes\bubble_sort.h
+
+1479622610 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\heap_sort.c
+
+1479623982 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1479729933 c:\users\gustavo\documents\biblioteca c\ordenacoes\quick_sort.h
+
+1479621196 c:\users\gustavo\documents\biblioteca c\ordenacoes\insertion_sort.h
+
+1479621829 c:\users\gustavo\documents\biblioteca c\ordenacoes\merge_sort.h
+
+1479619435 c:\users\gustavo\documents\biblioteca c\ordenacoes\selection_sort.h
+
+1479619472 c:\users\gustavo\documents\biblioteca c\ordenacoes\heap_sort.h
+
+1479625938 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1479730187 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1479622630 source:c:\users\gustavo\documents\biblioteca c\ordenacoes\selection_sort.c
+
+1479618236 source:c:\users\aluno\desktop\ordenacoes\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1479614444 c:\users\aluno\desktop\ordenacoes\bubble_sort.h
+
+1479619012 source:c:\users\aluno\desktop\ordenacoes\heap_sort.c
+
+1479620384 source:c:\users\aluno\desktop\ordenacoes\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1479617598 c:\users\aluno\desktop\ordenacoes\insertion_sort.h
+
+1481147703 source:c:\users\aluno\desktop\ordenacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1479726334 c:\users\aluno\desktop\ordenacoes\quick_sort.h
+
+1479618230 c:\users\aluno\desktop\ordenacoes\merge_sort.h
+
+1481143978 c:\users\aluno\desktop\ordenacoes\selection_sort.h
+
+1479615874 c:\users\aluno\desktop\ordenacoes\heap_sort.h
+
+1479622340 source:c:\users\aluno\desktop\ordenacoes\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1479726710 source:c:\users\aluno\desktop\ordenacoes\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481143978 source:c:\users\aluno\desktop\ordenacoes\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481144671 source:c:\users\aluno\desktop\ordenacoes\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481144651 c:\users\aluno\desktop\ordenacoes\insertion_sort_bin.h
+
+1481276957 source:c:\users\aluno\desktop\07-12\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481276957 c:\users\aluno\desktop\07-12\bubble_sort.h
+
+1481276957 source:c:\users\aluno\desktop\07-12\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481276957 c:\users\aluno\desktop\07-12\insertion_sort.h
+
+1481276957 source:c:\users\aluno\desktop\07-12\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481276957 c:\users\aluno\desktop\07-12\insertion_sort_bin.h
+
+1481279358 source:c:\users\aluno\desktop\07-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481279075 c:\users\aluno\desktop\07-12\quick_sort.h
+
+1481276957 c:\users\aluno\desktop\07-12\merge_sort.h
+
+1481276957 c:\users\aluno\desktop\07-12\selection_sort.h
+
+1481276957 c:\users\aluno\desktop\07-12\heap_sort.h
+
+1481276957 source:c:\users\aluno\desktop\07-12\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481276957 source:c:\users\aluno\desktop\07-12\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481281264 source:c:\users\aluno\desktop\07-12\heap_sort.c
+
+1481281317 source:c:\users\aluno\desktop\07-12\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481540187 source:c:\users\aluno\desktop\09-12\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481540185 c:\users\aluno\desktop\09-12\bubble_sort.h
+
+1481540181 source:c:\users\aluno\desktop\09-12\heap_sort.c
+
+1481540185 source:c:\users\aluno\desktop\09-12\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481540179 c:\users\aluno\desktop\09-12\insertion_sort.h
+
+1481540184 source:c:\users\aluno\desktop\09-12\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481540183 c:\users\aluno\desktop\09-12\insertion_sort_bin.h
+
+1481540539 source:c:\users\aluno\desktop\09-12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481540384 c:\users\aluno\desktop\09-12\quick_sort.h
+
+1481540186 c:\users\aluno\desktop\09-12\merge_sort.h
+
+1481540180 c:\users\aluno\desktop\09-12\selection_sort.h
+
+1481540187 c:\users\aluno\desktop\09-12\heap_sort.h
+
+1481540179 source:c:\users\aluno\desktop\09-12\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481540186 source:c:\users\aluno\desktop\09-12\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481540429 source:c:\users\aluno\desktop\09-12\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481519118 source:c:\users\jujuba\desktop\falta heap\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481519118 c:\users\jujuba\desktop\falta heap\bubble_sort.h
+
+1481519118 source:c:\users\jujuba\desktop\falta heap\heap_sort.c
+
+1481519118 source:c:\users\jujuba\desktop\falta heap\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481519118 c:\users\jujuba\desktop\falta heap\insertion_sort_bin.h
+
+1481519120 source:c:\users\jujuba\desktop\falta heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481631002 c:\users\jujuba\desktop\falta heap\quick_sort.h
+
+1481630867 c:\users\jujuba\desktop\falta heap\insertion_sort.h
+
+1481519120 c:\users\jujuba\desktop\falta heap\merge_sort.h
+
+1481519122 c:\users\jujuba\desktop\falta heap\selection_sort.h
+
+1481519118 c:\users\jujuba\desktop\falta heap\heap_sort.h
+
+1481519120 source:c:\users\jujuba\desktop\falta heap\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481631147 source:c:\users\jujuba\desktop\falta heap\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481519122 source:c:\users\jujuba\desktop\falta heap\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481630867 source:c:\users\jujuba\desktop\falta heap\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481654507 source:c:\users\arihe\desktop\falta heap\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481654312 c:\users\arihe\desktop\falta heap\bubble_sort.h
+
+1481519118 source:c:\users\arihe\desktop\falta heap\heap_sort.c
+
+1481654507 source:c:\users\arihe\desktop\falta heap\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481630867 c:\users\arihe\desktop\falta heap\insertion_sort.h
+
+1481654643 source:c:\users\arihe\desktop\falta heap\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481519118 c:\users\arihe\desktop\falta heap\insertion_sort_bin.h
+
+1481654571 source:c:\users\arihe\desktop\falta heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481631002 c:\users\arihe\desktop\falta heap\quick_sort.h
+
+1481654507 c:\users\arihe\desktop\falta heap\merge_sort.h
+
+1481519122 c:\users\arihe\desktop\falta heap\selection_sort.h
+
+1481519118 c:\users\arihe\desktop\falta heap\heap_sort.h
+
+1481654698 source:c:\users\arihe\desktop\falta heap\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481654507 source:c:\users\arihe\desktop\falta heap\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481654729 source:c:\users\arihe\desktop\falta heap\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481658108 source:c:\users\gustavo\desktop\falta heap\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481657914 c:\users\gustavo\desktop\falta heap\bubble_sort.h
+
+1481658108 source:c:\users\gustavo\desktop\falta heap\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481634468 c:\users\gustavo\desktop\falta heap\insertion_sort.h
+
+1481658244 source:c:\users\gustavo\desktop\falta heap\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481834049 c:\users\gustavo\desktop\falta heap\insertion_sort_bin.h
+
+1481838150 source:c:\users\gustavo\desktop\falta heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481634604 c:\users\gustavo\desktop\falta heap\quick_sort.h
+
+1481658108 c:\users\gustavo\desktop\falta heap\merge_sort.h
+
+1481522722 c:\users\gustavo\desktop\falta heap\selection_sort.h
+
+1481834255 c:\users\gustavo\desktop\falta heap\heap_sort.h
+
+1481658300 source:c:\users\gustavo\desktop\falta heap\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481658108 source:c:\users\gustavo\desktop\falta heap\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481658330 source:c:\users\gustavo\desktop\falta heap\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481833768 source:c:\users\gustavo\desktop\falta heap\heap_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes\bubble_sort.h
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes\heap_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes\heap_sort.h
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes\insertion_sort.h
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes\insertion_sort_bin.h
+
+1481814656 source:c:\users\arihe\desktop\7_ordenacoes\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481814656 c:\users\arihe\desktop\7_ordenacoes\merge_sort.h
+
+1481814656 source:c:\users\arihe\desktop\7_ordenacoes\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481814656 c:\users\arihe\desktop\7_ordenacoes\quick_sort.h
+
+1481814660 source:c:\users\arihe\desktop\7_ordenacoes\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481814660 c:\users\arihe\desktop\7_ordenacoes\selection_sort.h
+
+1481850251 source:c:\users\arihe\desktop\7_ordenacoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes_ordenadas\bubble_sort.h
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes_ordenadas\insertion_sort.h
+
+1481814654 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481814654 c:\users\arihe\desktop\7_ordenacoes_ordenadas\insertion_sort_bin.h
+
+1481814656 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481814656 c:\users\arihe\desktop\7_ordenacoes_ordenadas\merge_sort.h
+
+1481814656 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481814656 c:\users\arihe\desktop\7_ordenacoes_ordenadas\quick_sort.h
+
+1481814660 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481814660 c:\users\arihe\desktop\7_ordenacoes_ordenadas\selection_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas\bubble_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\heap_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas\heap_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas\insertion_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas\insertion_sort_bin.h
+
+1481883274 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481882280 c:\users\aluno\desktop\7_ordenacoes_ordenadas\quick_sort.h
+
+1481883035 c:\users\aluno\desktop\7_ordenacoes_ordenadas\merge_sort.h
+
+1481882280 c:\users\aluno\desktop\7_ordenacoes_ordenadas\selection_sort.h
+
+1481883035 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481882280 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481882280 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\bubble_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\heap_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\heap_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort.h
+
+1481882281 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481882281 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort_bin.h
+
+1481883035 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1481883035 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\merge_sort.h
+
+1481882280 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481882280 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\quick_sort.h
+
+1481882280 source:c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481882280 c:\users\aluno\desktop\7_ordenacoes_ordenadas_coriigidas\selection_sort.h
+
+1481864584 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"bubble_sort.h"
+
+1481864586 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\bubble_sort.h
+
+1481864586 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\heap_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1481864586 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\heap_sort.h
+
+1481864586 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1481864586 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort.h
+
+1481864586 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort_bin.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort_bin.h"
+
+1481864586 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\insertion_sort_bin.h
+
+1481864588 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<process.h>
+	<sys/time.h>
+	<unistd.h>
+	"bubble_sort.h"
+	"quick_sort.h"
+	"insertion_sort.h"
+	"insertion_sort_bin.h"
+	"merge_sort.h"
+	"selection_sort.h"
+	"heap_sort.h"
+
+1481864590 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\quick_sort.h
+
+1481864588 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\merge_sort.h
+
+1481864590 c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\selection_sort.h
+
+1481864590 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\quick_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sort.h"
+
+1481864590 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"selection_sort.h"
+
+1481889477 source:c:\users\arihe\desktop\7_ordenacoes_ordenadas_coriigidas\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
